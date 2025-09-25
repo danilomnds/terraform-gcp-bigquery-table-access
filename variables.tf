@@ -12,7 +12,7 @@ variable "project" {
 }
 
 variable "member" {
-  type    = string  
+  type = string
 }
 
 variable "role" {
